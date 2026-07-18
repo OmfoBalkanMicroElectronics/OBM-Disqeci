@@ -30,7 +30,6 @@ Bu cihaz, uydu kurulumcuları ve RF meraklıları için özel olarak geliştiril
 
 ## 👥 Geliştirici Ekip
 *   **Mete Onelge:** [@meteonelge0127](https://www.instagram.com/meteonelge0127)
-*   **Barbaror:** [@barbaror4](https://www.instagram.com/barbaror4)
 
 ---
 *Proje OBM (Omfo Balkan Microelectronics) tarafından geliştirilmiştir.*
